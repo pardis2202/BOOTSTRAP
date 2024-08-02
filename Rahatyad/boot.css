@@ -1,0 +1,82 @@
+@font-face {
+    font-family:h ;
+    src: url('./Vazir-Medium.woff2');
+}
+*{
+    font-family: h;
+}
+
+.black-text{
+    color: black;
+}
+.line{
+    width: 100%;
+    padding: 0.3px;
+    background-color: black;
+}
+
+.doreha{
+    flex-wrap: wrap;
+}
+
+
+.fs{
+    font-size: 13px;
+    font-weight: bold;
+}
+.blue{
+    color: #00A2E9;
+    margin-right: 10px;
+    
+}
+.green{
+    color: #ACCE22;
+    margin-right: 10px;
+}
+.buttongr{
+    background-color:#ACCE22;
+}
+.buttonbl{
+    background-color: #00A2E9;
+}
+.gray{
+    background-color: #EEEFF0;
+}
+.r{
+    border-radius: 30px;
+}
+.bg-secondary-subtle{
+    background-color: #E0E0E0;
+   
+}
+
+.ru{
+    border-radius: 0 0 20px 20px;
+}
+.bg-info1{
+    background-color: #B3E5FC;
+
+}
+.form11{
+    background-color:  #00A2E9;
+    border-radius: 0 0 90px 90px;
+}
+
+.email{
+    background-color: #ACCE22;
+}
+.about{
+    color:  #00A2E9;
+}
+.rotate{
+    transform:  rotate(90deg);
+}
+
+.tags{
+    border-radius: 10px;
+    background-color: #F7FAE8;
+}
+
+.fff svg{
+    background-color:#ACCE22;
+}
