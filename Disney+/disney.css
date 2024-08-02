@@ -1,0 +1,64 @@
+
+  .form{
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+
+  .trend{
+      background-color: #054553;
+  }
+
+  .tangled{
+    background: rgb(237,171,16);
+background: linear-gradient(153deg, rgba(237,171,16,1) 3%, rgba(13,36,158,1) 58%, rgba(235,7,220,1) 98%);
+  }
+
+
+  /* Show the dropdown menu on hover */
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+/* Additional styling to ensure dropdown is shown correctly */
+.nav-item.dropdown .dropdown-menu {
+  margin-top: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+
+}
+
+
+
+
+  .rab{
+    background: rgb(30,240,69);
+  background: linear-gradient(153deg, rgba(30,240,69,1) 4%, rgba(0,212,114,1) 7%, rgba(0,205,179,1) 11%, rgba(0,206,180,1) 14%, rgba(0,170,238,1) 18%, rgba(0,105,235,1) 23%, rgba(5,28,228,1) 29%, rgba(0,17,107,1) 34%, rgba(2,12,65,1) 98%);
+  }
+
+  .tt{
+    background-color: #F1F2F4;
+  }
+
+  .ee{
+    color: #0F2F5E;
+  }
+  .rr{
+    background-color: #F1F2F3;
+  }
+  .text-wrapper {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 50px;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+  }
+  
+  .fgf{
+    background-color: #0318E4;
+  }
